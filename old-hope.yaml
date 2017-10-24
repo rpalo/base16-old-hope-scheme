@@ -1,0 +1,18 @@
+scheme: "An Old Hope"
+author: "Ryan Palo (https://github.com/rpalo) based on an-old-hope theme (https://github.com/an-old-hope-syntax-atom)"
+base00: "282933" # Default background: VERY DARK GREY
+base01: "848794" # Lighter background: LIGHTER GREY
+base02: "CBCDD2" # Selection background: MEDIUM GREY
+base03: "848794" # Comments, line highlighting: LIGHTER GREY
+base04: "282933" # Dark Foreground: VERY DARK GREY
+base05: "EFEFEF" # Default Foreground, Caret, operators: WHITE
+base06: "EFEFEF" # Light Foreground (not often): WHITE
+base07: "EFEFEF" # Light background (Not often): WHITE
+base08: "EF7C2A" # Variables, markup link text: LUKE
+base09: "EB3D54" # Integers, booleans, constants: VADER
+base0A: "E5CD52" # Classes, bold, search bg: C3PO
+base0B: "4FB4D8" # Strings, Inherited Class, markup code: R2D2
+base0C: "4FB4D8" # Support, regex, markup quotes: R2D2
+base0D: "E5CD52" # Functions, methods, headings: C3PO
+base0E: "78BD65" # Keywords, Italic: YODA
+base0F: "EB3D54" # Depreciated, Opening/Closing Tags: VADER
